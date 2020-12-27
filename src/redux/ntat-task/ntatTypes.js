@@ -1,0 +1,10 @@
+export const SET_JWT = "SET_JWT";
+export const SET_JWT_ERROR = "SET_JWT_ERROR";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const SET_TRANSACTIONS = "SET_TRANSACTIONS";
+export const SET_USERS = "SET_USERS";
+export const SET_MESSAGE = "SET_MESSAGE";
+export const SET_ERROR = "SET_ERROR";
+export const SET_REQUESTS = "SET_REQUESTS";
+export const SET_MESSAGE_LOCK = "SET_MESSAGE_LOCK";
+export const SET_ERROR_LOCK = "SET_ERROR_LOCK";
